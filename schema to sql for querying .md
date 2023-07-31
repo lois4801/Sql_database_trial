@@ -43,15 +43,12 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
 
 ## CREATING DATABASE
 
-```diff ! text in orange Created the star schema for the DNS students class. ```
-
+ORANGE BOOK (&#x1F4D9;): Created the star schema for the DNS students class
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621)
 
 
 
-Then I will now export it to mysql server workbench to populate the data.
-
-
+ORANGE BOOK (&#x1F4D9;): Then I will now export it to mysql server workbench to populate the data.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/e91ef46f-70a8-45cd-8733-baa057266a7f)
 
 
