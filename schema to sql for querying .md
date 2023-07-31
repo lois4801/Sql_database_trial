@@ -26,11 +26,15 @@ Created the star schema for the DNS students class.
 
 
 Then I will now export it to mysql server workbench to populate the data.
+
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/e91ef46f-70a8-45cd-8733-baa057266a7f)
 
 
 
 -Upon opening the file.I have to connect it to the local instance.
+
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/3a745592-c6bb-4695-b545-31171fc0942f)
 
 
