@@ -82,14 +82,18 @@ In my case type USE DNS_Students;
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/553bd269-533f-4b0e-bf2c-121c9abfc35b)
 
 
+
+
+
+
+
+
+
+
+
+
+
 &#x1F4D9; I can now populate the data inside the table created.
-
-
-
-
-
-
-
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/6fa72581-de16-4241-bc1c-0ce7244fc039)
 
 
