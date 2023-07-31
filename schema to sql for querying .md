@@ -1,12 +1,9 @@
-# Schema to mysql for querrying  
-- samples of sql querries and data modeling i have done in the past but wasnt able to upload it. My road to SQL and DATABASE.
-
 NOTE:
 This is just to add colors to the texts
 ```diff
 - text in red
 + text in green
-```diff
+! text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
@@ -16,10 +13,37 @@ This is just to add colors to the texts
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 
+RED APPLE (&#x1F34E;): 🍎
+GREEN APPLE (&#x1F34F;): 🍏
+BLUE HEART (&#x1F499;): 💙
+GREEN HEART (&#x1F49A;): 💚
+YELLOW HEART (&#x1F49B;): 💛
+PURPLE HEART (&#x1F49C;): 💜
+GREEN BOOK (&#x1F4D7;): 📗
+BLUE BOOK (&#x1F4D8;): 📘
+ORANGE BOOK (&#x1F4D9;): 📙
+LARGE RED CIRCLE (&#x1F534;): 🔴
+LARGE BLUE CIRCLE (&#x1F535;): 🔵
+LARGE ORANGE DIAMOND (&#x1F536;): 🔶
+LARGE BLUE DIAMOND (&#x1F537;): 🔷
+SMALL ORANGE DIAMOND (&#x1F538;): 🔸
+SMALL BLUE DIAMOND (&#x1F539;): 🔹
+UP-POINTING RED TRIANGLE (&#x1F53A;): 🔺
+DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻
+UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼
+DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
+
+
+
+# Schema to mysql for querrying  
+- samples of sql querries and data modeling i have done in the past but wasnt able to upload it. My road to SQL and DATABASE.
+
+
+
 
 ## CREATING DATABASE
 
-```diff + Created the star schema for the DNS students class. ```
+```diff ! text in orange Created the star schema for the DNS students class. ```
 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621)
 
