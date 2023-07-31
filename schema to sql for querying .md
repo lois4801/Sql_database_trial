@@ -8,7 +8,7 @@
 
 &#x1F4D9; Created the star schema for the DNS students class
 
-[astronomy-g432f35a96_1280.jpg](https://github.com/lois4801/Sql_database_trial/blob/983171c51ed159d6fae5b541b4ad4124e111b57d/astronomy-g432f35a96_1280.jpg)
+(https://terabox.com/s/1UdkFrOceE31kXc1tfONv4Q)
 
 
 
