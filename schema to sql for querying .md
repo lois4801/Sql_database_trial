@@ -8,24 +8,21 @@
 
 &#x1F4D9; Created the star schema for the DNS students class
 https://dbdiagram.io/d/64c733e702bd1c4a5ef39145
-![astronomy-g432f35a96_1280](https://github.com/lois4801/Sql_database_trial/assets/96842662/f4602d8e-8766-49e0-846f-1071d19cf8d0)
+![1](https://github.com/lois4801/Sql_database_trial/assets/96842662/46e58b2e-3e91-48e0-84e6-b8e358bc8ad3)
 
 
 &#x1F4D9; Then I will now export it to mysql server workbench to populate the data.
-
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/e91ef46f-70a8-45cd-8733-baa057266a7f)
-
+![Untitled](https://github.com/lois4801/Sql_database_trial/assets/96842662/06700d6e-8954-43a8-a53c-c96372d0c20b)
 
 
 &#x1F4D9; Upon opening the file.I have to connect it to the local instance.
-
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/3a745592-c6bb-4695-b545-31171fc0942f)
-
+![3](https://github.com/lois4801/Sql_database_trial/assets/96842662/cf10d9f2-21ed-43da-9408-7b3d56659906)
 
 
 &#x1F4D9; Press ok and it should appear like this.
+![4](https://github.com/lois4801/Sql_database_trial/assets/96842662/ad4087b9-a8f5-4db8-9501-77c77aaec3fb)
 
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8d3a6222-91f7-404c-8ef0-31e2a1cc3cb3)
+
 
 
 
