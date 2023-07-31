@@ -16,13 +16,11 @@ https://dbdiagram.io/d/64c733e702bd1c4a5ef39145
 
 
 &#x1F4D9; Upon opening the file.I have to connect it to the local instance.
-![3](https://github.com/lois4801/Sql_database_trial/assets/96842662/cf10d9f2-21ed-43da-9408-7b3d56659906)
+![3 2](https://github.com/lois4801/Sql_database_trial/assets/96842662/ce9cd7b0-cc50-4570-85d8-bf72f054571e)
 
 
 &#x1F4D9; Press ok and it should appear like this.
-![4](https://github.com/lois4801/Sql_database_trial/assets/96842662/ad4087b9-a8f5-4db8-9501-77c77aaec3fb)
-
-
+![4](https://github.com/lois4801/Sql_database_trial/assets/96842662/267ad00d-3559-4a10-93cf-c96a4793686e)
 
 
 
