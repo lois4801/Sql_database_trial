@@ -9,4 +9,6 @@
 # text in gray
 @@ text in purple (and bold)@@
 
+<font color="green"> Some green text </font>
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/a8c12859-1aee-4b3c-9b66-67632f2c1221)
