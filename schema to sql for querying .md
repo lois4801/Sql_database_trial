@@ -84,8 +84,7 @@ ALTER TABLE `students` ADD FOREIGN KEY (`RestID`) REFERENCES `restaurants` (`Res
 
 
 
-
-
+//
 INSERT INTO sports VALUES
 ('S1', 'Hockey', 'Our favourite sport'),
 ('S2', 'Soccer', '22 players chasing a ball'),
@@ -126,6 +125,6 @@ VALUES
 ('Sophie', 'Moncton', 'S1','R2', 22),
 ('Gustavo', 'Gander', 'S1',NULL, 16)
 ;
-
+//
 
 
