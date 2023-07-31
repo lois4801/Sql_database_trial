@@ -7,8 +7,8 @@
 ## CREATING DATABASE
 
 &#x1F4D9; Created the star schema for the DNS students class
-https://terabox.com/s/1gkfXSxsuMoW09WjZIRsg6Q 
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621)
+
+![image]([https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621](https://terabox.com/s/1gkfXSxsuMoW09WjZIRsg6Q ))
 
 
 
