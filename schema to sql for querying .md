@@ -8,6 +8,7 @@
 
 &#x1F4D9; Created the star schema for the DNS students class
 https://dbdiagram.io/d/64c733e702bd1c4a5ef39145
+![astronomy-g432f35a96_1280](https://github.com/lois4801/Sql_database_trial/assets/96842662/f4602d8e-8766-49e0-846f-1071d19cf8d0)
 
 
 &#x1F4D9; Then I will now export it to mysql server workbench to populate the data.
