@@ -3,7 +3,7 @@
 
 # CREATING DATABASE
 
-- text in red
+- text in red #f03c15
 + text in green
 ! text in orange
 # text in gray
