@@ -77,36 +77,7 @@ In my case type USE DNS_Students;
 
 
 
-- We can autopopulate all the data from each table first or do it one by one. I find that executing all the tables should comes first just to make sure that everything is good. Once it is loaded. We can see the tables created inside dns students database
-
-Use DNS_Students;
-CREATE TABLE `sports` (
-  `SportsID` varchar(50) PRIMARY KEY,
-  `SportsName` varchar(200) UNIQUE,
-  `SportsDesc` varchar(300)
-);
-
-CREATE TABLE `restaurants` (
-  `RestID` varchar(50) PRIMARY KEY,
-  `RestName` varchar(200) UNIQUE,
-  `Rest_City` varchar(100),
-  `Rest_Details` varchar(300) DEFAULT " A nice restaurant"
-);
-
-CREATE TABLE `students` (
-  `StudentID` int PRIMARY KEY AUTO_INCREMENT,
-  `Student_name` varchar(200),
-  `City` varchar(100),
-  `SportsID` varchar(50),
-  `RestID` varchar(50),
-  `Student_Age` int
-);
-
-ALTER TABLE `students` ADD FOREIGN KEY (`SportsID`) REFERENCES `sports` (`SportsID`);
-
-ALTER TABLE `students` ADD FOREIGN KEY (`RestID`) REFERENCES `restaurants` (`RestID`);
-
-
+&#x1F4D9;I can autopopulate all the data from each table first or execute in creating the table first. I find that executing all the tables should comes first just to make sure that everything is good. Once it is loaded. We can see the tables created inside dns students database
 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8a3e72b6-f594-486d-a964-b6f27b48046b)
 
