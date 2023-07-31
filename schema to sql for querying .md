@@ -21,22 +21,32 @@ This is just to add colors to the texts
 - Created the star schema for the DNS students class. 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621)
 
+
 -Then I will now export it to mysql server workbench to populate the data.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/e91ef46f-70a8-45cd-8733-baa057266a7f)
 
+
+
 -Upon opening the file.I have to connect it to the local instance.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/3a745592-c6bb-4695-b545-31171fc0942f)
+
+
 
 - Press ok and it should appear like this.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8d3a6222-91f7-404c-8ef0-31e2a1cc3cb3)
 
 
+
 -After connecting. I find it interesting that I have to still create a database folder inside mysql workbench. Thus, thats what I did.  I have create a database title DNS_students, press the thunder button, then refresh the side menu and see if the database folder is now in there.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/cdea80f0-f653-4e40-a2d5-034447961871)
+
+
 
 -To create the database tables that you have created from the schema. Always direct it to the database folder that you have created.
 In my case type USE DNS_Students; 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/d9233694-a3d7-4f47-b8b1-5fd9219ea68b)
+
+
 
 - We can autopopulate all the data from each table first or do it one by one. I find that executing all the tables should comes first just to make sure that everything is good. Once it is loaded. We can see the tables created inside dns students database
 
@@ -66,6 +76,8 @@ CREATE TABLE `students` (
 ALTER TABLE `students` ADD FOREIGN KEY (`SportsID`) REFERENCES `sports` (`SportsID`);
 
 ALTER TABLE `students` ADD FOREIGN KEY (`RestID`) REFERENCES `restaurants` (`RestID`);
+
+
 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8a3e72b6-f594-486d-a964-b6f27b48046b)
 
