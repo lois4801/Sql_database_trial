@@ -54,7 +54,8 @@ In my case type USE DNS_Students;
 
 
 &#x1F4D9; Checking if all the table we now successfully loaded with the data necessary by using the select syntax 
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/4d533782-b88d-4b19-8c66-128f00e40991)
+![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/c584763d-13c3-4b9a-a626-ccfb2964ae3b)
+
 
 
 
