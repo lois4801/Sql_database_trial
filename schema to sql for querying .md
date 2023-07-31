@@ -18,7 +18,8 @@ This is just to add colors to the texts
 
 
 ## CREATING DATABASE
-- Created the star schema for the DNS students class. 
+- Created the star schema for the DNS students class.
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/db855d7f-b166-4c51-8b55-1ea98a9d9621)
 
 
