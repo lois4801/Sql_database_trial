@@ -85,18 +85,21 @@ In my case type USE DNS_Students;
 
 
 
-
-
-
-
-
-
-
-
-
-
 &#x1F4D9; I can now populate the data inside the table created.
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/6fa72581-de16-4241-bc1c-0ce7244fc039)
+
+
+&#x1F4D9; Checking if all the table we now successfully loaded with the data necessary by using the select syntax 
+![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/4d533782-b88d-4b19-8c66-128f00e40991)
+
+
+
+&#x1F4D9; I wanted to see if how much data do I have if I pull the whole database record just by those three tables alone.
+
+![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8b1e33bc-25bf-4dbe-b7f6-6c45f4d205c2)
+
+
 
 
 
