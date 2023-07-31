@@ -7,8 +7,7 @@
 ## CREATING DATABASE
 
 &#x1F4D9; Created the star schema for the DNS students class
-"C:\Users\USER\OneDrive\astronomy-g432f35a96_1280.png"
-
+https://dbdiagram.io/d/64c733e702bd1c4a5ef39145
 
 
 &#x1F4D9; Then I will now export it to mysql server workbench to populate the data.
