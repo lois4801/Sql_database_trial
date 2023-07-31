@@ -42,11 +42,12 @@ In my case type USE DNS_Students;
 
 
 &#x1F4D9; I can now populate the data inside the table created.
-![7](https://github.com/lois4801/Sql_database_trial/assets/96842662/9d73515a-6b29-451e-8156-d6a3557bfc31)
+![7](https://github.com/lois4801/Sql_database_trial/assets/96842662/aa1e468c-87f9-449b-b52b-41e03105a242)
+
 
 
 &#x1F4D9; Checking if all the table we now successfully loaded with the data necessary by using the select syntax 
-![8](https://github.com/lois4801/Sql_database_trial/assets/96842662/db5d8bcb-2b85-4116-a56e-738e29bd1a29)
+![8](https://github.com/lois4801/Sql_database_trial/assets/96842662/0f72638a-a713-441c-b7c3-d1175485c9f1)
 
 
 
