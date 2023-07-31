@@ -32,19 +32,21 @@ Then I will now export it to mysql server workbench to populate the data.
 
 
 
--Upon opening the file.I have to connect it to the local instance.
+Upon opening the file.I have to connect it to the local instance.
 
 
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/3a745592-c6bb-4695-b545-31171fc0942f)
 
 
 
-- Press ok and it should appear like this.
+Press ok and it should appear like this.
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8d3a6222-91f7-404c-8ef0-31e2a1cc3cb3)
 
 
 
--After connecting. I find it interesting that I have to still create a database folder inside mysql workbench. Thus, thats what I did.  I have create a database title DNS_students, press the thunder button, then refresh the side menu and see if the database folder is now in there.
+After connecting. I find it interesting that I have to still create a database folder inside mysql workbench. Thus, thats what I did.  I have create a database title DNS_students, press the thunder button, then refresh the side menu and see if the database folder is now in there.
+
+
 ![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/cdea80f0-f653-4e40-a2d5-034447961871)
 
 
