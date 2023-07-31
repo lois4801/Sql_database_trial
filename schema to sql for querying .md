@@ -7,8 +7,7 @@
 ## CREATING DATABASE
 
 &#x1F4D9; Created the star schema for the DNS students class
-
-(https://terabox.com/s/1UdkFrOceE31kXc1tfONv4Q)
+"C:\Users\USER\OneDrive\astronomy-g432f35a96_1280.png"
 
 
 
