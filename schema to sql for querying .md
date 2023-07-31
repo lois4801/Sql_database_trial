@@ -79,52 +79,11 @@ In my case type USE DNS_Students;
 
 &#x1F4D9;I can autopopulate all the data from each table first or execute in creating the table first. I find that executing all the tables should comes first just to make sure that everything is good. Once it is loaded. We can see the tables created inside dns students database
 
-![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/8a3e72b6-f594-486d-a964-b6f27b48046b)
+![image](https://github.com/lois4801/Sql_database_trial/assets/96842662/553bd269-533f-4b0e-bf2c-121c9abfc35b)
 
 
+&#x1F4D9; 
 
 
-//
-INSERT INTO sports VALUES
-('S1', 'Hockey', 'Our favourite sport'),
-('S2', 'Soccer', '22 players chasing a ball'),
-('S3', 'Personal Fitness', 'Can we classify it as sport'),
-('S4', 'Rugby', 'For the tough ones')
-;
-
-INSERT INTO restaurants
-VALUES
-('R1', 'Almonak', 'Halifax', 'Special for Brunch'),
-('R2', "John's Lunch", 'Halifax', 'Special for Lunch'),
-('R3', 'Destination Dogs', 'MOncton', 'A unique name'),
-('R4', 'Atelier Tony', 'Dieppe', 'Upscale restaurant')
-;
-
-
-INSERT INTO students (Student_name, City, SportsID, RestID, Student_Age)
-VALUES
-('Alex', 'Bedford', 'S1',NULL,89),
-('Adan', 'Halifax', null,NULL,70),
-('Kunle', 'Moncton', 'S2','R1',40),
-('Chidinma', 'St Johns', 'S3','R1', null),
-('Israa', 'Saint Johns', 'S3',NULL, 23),
-('Luri', 'Gander', 'S4','R2', 22),
-('Jena', 'Brigus', 'S1',NULL, 22),
-('Nancy', 'Gander', null,'R3', 34),
-('Vicky', 'Dartmouth', 'S2',NULL, 23),
-('Zach', 'Fredricton', 'S3','R4', 23),
-('Shadi', 'Bedford', null,'R4', 28),
-('Klara', 'Fredricton', 'S1',NULL, 18),
-('Divya', 'Halifax', 'S2','R1', 17),
-('Emma', 'Halifax', 'S3','R2', 25),
-('Marion', 'Moncton', 'S2','R1', null),
-('Sophie', 'Saint Johns', 'S1',NULL, 15),
-('Atikur', 'Halifax', 'S1',NULL, 25),
-('Chisom', 'Bedford', 'S1',NULL, 22),
-('Amir', 'Bedford', 'S1','R4', 23),
-('Sophie', 'Moncton', 'S1','R2', 22),
-('Gustavo', 'Gander', 'S1',NULL, 16)
-;
-//
 
 
